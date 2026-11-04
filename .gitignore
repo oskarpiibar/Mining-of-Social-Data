@@ -1,0 +1,5 @@
+# The .venv
+.venv
+
+# Everything inside of the data folder
+data/*
