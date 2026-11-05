@@ -1,5 +1,6 @@
 # The .venv
 .venv
+__pycache__
 
 # Everything inside of the data folder
 data/*
