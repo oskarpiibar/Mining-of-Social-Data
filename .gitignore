@@ -1,6 +1,7 @@
 # The .venv
 .venv
 __pycache__
+*.pickle
 
 # Everything inside of the data folder
 data/*
